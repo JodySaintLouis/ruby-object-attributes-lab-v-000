@@ -8,4 +8,6 @@
     @name=name
   end
 
+  def breed
+
 end
